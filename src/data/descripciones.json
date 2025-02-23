@@ -1,0 +1,206 @@
+{
+  "Ávila": {
+    "image": "imagenes/Ávila.jpg",
+    "description": "Ávila es conocida por su impresionante muralla medieval y su rica historia."
+  },
+  "Álava": {
+    "image": "imagenes/Álava.jpg",
+    "description": "Alava"
+  },
+  "Albacete": {
+    "image": "imagenes/Albacete.jpg",
+    "description": "Albacete es famosa por su cuchillería y su Feria de Albacete."
+  },
+  "Alicante": {
+    "image": "imagenes/Alicante.png",
+    "description": "Alicante es un popular destino turístico en la Costa Blanca, conocido por sus playas."
+  },
+  "Almería": {
+    "image": "imagenes/Almería.jpg",
+    "description": "Almería es famosa por su desierto y sus playas vírgenes."
+  },
+  "Asturias": {
+    "image": "imagenes/Asturias.jpg",
+    "description": "Asturias es conocida por su paisaje montañoso y su gastronomía, especialmente la sidra."
+  },
+  "Badajoz": {
+    "image": "imagenes/Badajoz.jpg",
+    "description": "Badajoz "
+  },
+  "Baleares": {
+    "image": "imagenes/Baleares.jpg",
+    "description": "Las Islas Baleares son un archipiélago famoso por sus playas y vida nocturna."
+  },
+  "Barcelona": {
+    "image": "imagenes/Barcelona.jpg",
+    "description": "Barcelona es conocida por su arquitectura modernista, incluyendo la Sagrada Familia."
+  },
+  "Bizkaia": {
+    "image": "imagenes/Bizkaia.jpg",
+    "description": "Bizkaia"
+  },
+  "Burgos": {
+    "image": "imagenes/Burgos.jpg",
+    "description": "Burgos es famosa por su catedral gótica y su historia medieval."
+  },
+  "Cáceres": {
+    "image": "imagenes/Cáceres.jpg",
+    "description": "Cáceres es conocida por su casco antiguo, Patrimonio de la Humanidad."
+  },
+  "Cádiz": {
+    "image": "imagenes/Cádiz.jpg",
+    "description": "Cádiz es famosa por su carnaval y sus playas en la Costa de la Luz."
+  },
+  "Cantabria": {
+    "image": "imagenes/Cantabria.jpg",
+    "description": "Cantabria"
+  },
+  "Castellón": {
+    "image": "imagenes/Castellón.jpg",
+    "description": "Castellón es conocida por sus playas y la Serra de Espadán."
+  },
+  "Ciudad Real": {
+    "image": "imagenes/Ciudad Real.jpg",
+    "description": "Ciudad Real es famosa por su queso manchego y su historia relacionada con Don Quijote."
+  },
+  "Córdoba": {
+    "image": "imagenes/Córdoba.jpg",
+    "description": "Córdoba es conocida por su Mezquita-Catedral y su casco antiguo."
+  },
+  "La Coruña": {
+    "image": "imagenes/La Coruña.jpg",
+    "description": "La Coruña es famosa por su Torre de Hércules y su gastronomía."
+  },
+  "Cuenca": {
+    "image": "imagenes/Cuenca.jpg",
+    "description": "Cuenca es conocida por sus casas colgadas y su patrimonio histórico."
+  },
+  "Gerona": {
+    "image": "imagenes/Gerona.jpg",
+    "description": "Gerona es famosa por su casco antiguo y su historia judía."
+  },
+  "Granada": {
+    "image": "imagenes/Granada.jpg",
+    "description": "Granada es conocida por la Alhambra y su rica herencia árabe."
+  },
+  "Guadalajara": {
+    "image": "imagenes/Guadalajara.jpg",
+    "description": "Guadalajara es famosa por su patrimonio histórico y su cercanía a Madrid."
+  },
+  "Guipúzcoa": {
+    "image": "imagenes/Gipúzcoa.jpg",
+    "description": "Guipúzcoa es conocida por su costa y su gastronomía, especialmente los pintxos."
+  },
+  "Huelva": {
+    "image": "imagenes/Huelva.jpg",
+    "description": "Huelva es famosa por su jamón y su cercanía al Parque Nacional de Doñana."
+  },
+  "Huesca": {
+    "image": "imagenes/Huesca.jpg",
+    "description": "Huesca es conocida por sus montañas y el Parque Nacional de Ordesa."
+  },
+  "Jaén": {
+    "image": "imagenes/Jaén.jpg",
+    "description": "Jaén es famosa por su aceite de oliva y su patrimonio histórico."
+  },
+  "La Rioja": {
+    "image": "imagenes/La Rioja.jpg",
+    "description": "La Rioja es conocida por sus vinos y su paisaje vinícola."
+  },
+  "Las Palmas": {
+    "image": "imagenes/Las Palmas.jpg",
+    "description": "Las Palmas es famosa por sus playas y su clima cálido durante todo el año."
+  },
+  "León": {
+    "image": "imagenes/León.jpg",
+    "description": "León es conocida por su catedral gótica y su historia medieval."
+  },
+  "Lérida": {
+    "image": "imagenes/Lérida.jpg",
+    "description": "Lérida es famosa por su patrimonio histórico y su agricultura."
+  },
+  "Lugo": {
+    "image": "imagenes/Lugo.jpg",
+    "description": "Lugo."
+  },
+  "Madrid": {
+    "image": "imagenes/Madrid.jpg",
+    "description": "Madrid es la capital de España, conocida por su vida cultural y su gastronomía."
+  },
+  "Málaga": {
+    "image": "imagenes/Málaga.jpg",
+    "description": "Málaga es famosa por sus playas y su historia, siendo el lugar de nacimiento de Picasso."
+  },
+  "Murcia": {
+    "image": "imagenes/Murcia.jpg",
+    "description": "Murcia es conocida por su huerta y su rica gastronomía."
+  },
+  "Navarra": {
+    "image": "imagenes/Navarra.jpg",
+    "description": "Navarra es famosa por sus paisajes y la Fiesta de San Fermín en Pamplona."
+  },
+  "Ourense": {
+    "image": "imagenes/Ourense.jpg",
+    "description": "Ourense es conocida por sus termas y su patrimonio histórico."
+  },
+  "Palencia": {
+    "image": "imagenes/Palencia.jpg",
+    "description": "Palencia es famosa por su catedral y su patrimonio histórico."
+  },
+  "Pontevedra": {
+    "image": "imagenes/Pontevedra.jpg",
+    "description": "Pontevedra es conocida por su casco antiguo y su cercanía a las Rías Baixas."
+  },
+  "Salamanca": {
+    "image": "imagenes/Salamanca.jpg",
+    "description": "Salamanca es famosa por su universidad y su arquitectura histórica."
+  },
+  "Santa Cruz De Tenerife": {
+    "image": "imagenes/Santa Cruz De Tenerife.jpg",
+    "description": "Santa Cruz de Tenerife es conocida por su carnaval y sus playas."
+  },
+  "Segovia": {
+    "image": "imagenes/Segovia.jpg",
+    "description": "Segovia es famosa por su acueducto romano y su catedral."
+  },
+  "Sevilla": {
+    "image": "imagenes/Sevilla.jpg",
+    "description": "Sevilla es conocida por su catedral, la Giralda y su flamenco."
+  },
+  "Soria": {
+    "image": "imagenes/Soria.jpg",
+    "description": "Soria es famosa por su patrimonio natural y su tranquilidad."
+  },
+  "Tarragona": {
+    "image": "imagenes/Tarragona.jpg",
+    "description": "Tarragona es conocida por sus ruinas romanas y su costa."
+  },
+  "Teruel": {
+    "image": "imagenes/Teruel.jpg",
+    "description": "Teruel es famosa por su arquitectura mudéjar y su jamón."
+  },
+  "Toledo": {
+    "image": "imagenes/Toledo.jpg",
+    "description": "Toledo es conocida por su historia y su mezcla de culturas."
+  },
+  "Valencia": {
+    "image": "imagenes/Valencia.jpg",
+    "description": "Valencia es famosa por su Ciudad de las Artes y las Ciencias y su paella."
+  },
+  "Valladolid": {
+    "image": "imagenes/Valladolid.jpg",
+    "description": "Valladolid es conocida por su historia y su patrimonio cultural."
+  },
+  "Vizcaya": {
+    "image": "imagenes/Vizcaya.jpg",
+    "description": "Vizcaya es famosa por su costa y su gastronomía."
+  },
+  "Zamora": {
+    "image": "imagenes/Zamora.jpg",
+    "description": "Zamora es conocida por su patrimonio histórico y su Semana Santa."
+  },
+  "Zaragoza": {
+    "image": "imagenes/Zaragoza.png",
+    "description": "Zaragoza es famosa por su Basílica del Pilar y su historia."
+  }
+}
